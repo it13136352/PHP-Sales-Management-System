@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_delitem" value="name:item_id;datatype:int,name:item_name;datatype:string,name:unite_price;datatype:real" />
+</info>

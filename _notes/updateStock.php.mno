@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_upstok" value="name:item_name;datatype:string,name:item_size;datatype:string,name:unit_price;datatype:real,name:quantity;datatype:int,name:dameges;datatype:int,name:item_id;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_updatesto" value="name:item_name;datatype:string,name:item_size;datatype:string,name:unit_price;datatype:real,name:quantity;datatype:int,name:dameges;datatype:int,name:item_id;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_upstock" value="name:item_name;datatype:string,name:item_size;datatype:string,name:unit_price;datatype:real,name:quantity;datatype:int,name:dameges;datatype:int,name:item_id;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_up_user" value="name:id;datatype:int,name:username;datatype:string,name:password;datatype:string,name:email;datatype:string,name:fullName;datatype:string,name:phoneNo;datatype:string,name:phoneNoland;datatype:int,name:role;datatype:string,name:type;datatype:string" />
+	<infoitem key="UD_updstock" value="name:item_name;datatype:string,name:item_size;datatype:string,name:unit_price;datatype:real,name:quantity;datatype:int,name:dameges;datatype:int,name:item_id;datatype:int,name:id;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_orderView" value="name:order_id;datatype:int,name:customer_id;datatype:int,name:totel_price;datatype:real,name:statues;datatype:string,name:order_date;datatype:string,name:delivery_date;datatype:string,name:rep_id;datatype:string,name:payment_type;datatype:string,name:amount;datatype:string" />
+</info>

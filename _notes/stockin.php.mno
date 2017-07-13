@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_viewstock" value="name:item_name;datatype:string,name:item_size;datatype:string,name:unit_price;datatype:real,name:quantity;datatype:int,name:dameges;datatype:int,name:item_id;datatype:int,name:id;datatype:int" />
+</info>

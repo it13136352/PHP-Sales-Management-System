@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_regiser1" value="name:Cust_Id;datatype:int,name:User_Name;datatype:string,name:Password;datatype:string,name:Shop_Name;datatype:string,name:Address;datatype:string,name:TP_shop;datatype:int,name:TP_mobile;datatype:string,name:Email;datatype:string,name:Type;datatype:string" />
+</info>
